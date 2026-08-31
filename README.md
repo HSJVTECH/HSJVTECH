@@ -108,7 +108,7 @@ Our portfolio includes real-world projects, business solutions and experimental 
 | **Clothing Store** | Responsive clothing and e-commerce website concept. |
 | **Hotel Management** | Digital solution for hotel management and operations. |
 | **Clinic Management** | Management platform concept for modern healthcare businesses. |
-
+| **Trophy World** | Digital Marketing and Showcasing e-commerce Website. |
 ---
 
 ## 🛠️ Technology Stack
