@@ -96,8 +96,9 @@ Our portfolio includes real-world projects, business solutions and experimental 
 
 | Project | Description | Status |
 |---|---|---|
-| **Project One** | Business-focused digital solution built by HSJV Tech. | 🟢 Live |
-| **Project Two** | Modern web/software solution designed for real-world use. | 🟢 Live |
+| **Project One** | Trivab Sports & Events Digital System. | 🟢 Live |
+| **Project Two** | Modern Interior Designer Portfolio Website | 🟢 Live |
+| **Project Three** | Physiotheraphist Booking System  | 🟢 Live |
 
 ### Showcase Projects
 
